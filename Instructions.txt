@@ -1,0 +1,6 @@
+You need to have the following packages to be installed in your machine:
+1. Python (Version: 3.5)
+2. BeautifulSoup
+3. Pandas
+
+Execute each cell of the notebook file sequentially to get the output. Thanks
